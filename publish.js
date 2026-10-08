@@ -33,16 +33,16 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    '91crdj89@gmail.com'
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+	'uwvenpqks.cc/', 
+	'mxzbixqd.cc/', 
+    'kaekhteok.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://aicrdj2.com";
 
 var newestUrls = [];
 
@@ -51,13 +51,13 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://91crdjai.pages.dev',
+	'https://91crdjai.github.io/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https://91crdjai.com',
 	JumpPage,
-	'https://52crdh.com',
+	'https://aicrdj.com',
 	
 ];
 var notices = [
