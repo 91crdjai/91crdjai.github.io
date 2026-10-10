@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'elqpbtlo.cc',
 	'uwvenpqks.cc',
 	'mxzbixqd.cc',
-	'kaekhteok.cc',
 ];                                                                                                                  
 
 var JumpPage="https://aicrdj2.com";
